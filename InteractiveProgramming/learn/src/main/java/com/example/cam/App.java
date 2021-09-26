@@ -3,8 +3,9 @@ import java.util.Scanner;
 
 /**
  * Interactive programming RosettaCode.com Challenge
+ * https://www.rosettacode.org/wiki/Interactive_programming
+ * 
  * Task
- *
  *Show how to start this mode.
  *
  *Then, as a small example of its use, interactively create a function of two strings and a separator 
